@@ -1,7 +1,7 @@
 # 🩺 Diabetes Prediction with Deep Learning
 
 This project is a **Deep Learning model** that predicts the likelihood of a person having **Diabetes** based on their medical data.  
-It was developed in **Python** using **TensorFlow/Keras**, along with **Pandas, NumPy, and Matplotlib**.
+It was developed in **Python** using **TensorFlow/Keras**, along with **Pandas, and NumPy**.
 
 ---
 
