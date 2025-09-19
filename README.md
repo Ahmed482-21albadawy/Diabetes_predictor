@@ -11,4 +11,3 @@ It was developed in **Python** using **TensorFlow/Keras**, along with **Pandas, 
 - Trains on a diabetes dataset and predicts **binary outcomes**:  
   - `0 = No Diabetes`  
   - `1 = Diabetes`
-- Includes performance evaluation (accuracy, loss, confusion matrix, etc.).
